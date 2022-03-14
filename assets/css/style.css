@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  background-color: blue;
+  color: white;
+}
+
+h2 {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.groupClass {
+  justify-content: center;
+}
+
+.classData {
+  margin: 25px 0 0 0;
+}
+
+.classData-body {
+  background-color: white;
+}
+
+.classHeader {
+  background-color: red;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
