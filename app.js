@@ -6,7 +6,6 @@ const fs = require("fs");
 const jest = require("jest");
 
 //----Classes----//
-// const html = require("./src/GenerateHTML.js");  // -------------MERGE ATTEMPT ---------- //
 const Manager = require("./lib/Manager.js");
 const Engineer = require("./lib/Engineer.js");
 const Intern = require("./lib/Intern.js");
